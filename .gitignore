@@ -1,0 +1,43 @@
+# ========================
+# Java / Spring Boot
+# ========================
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# ========================
+# Node / React
+# ========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# build
+/build
+
+# ========================
+# Environment
+# ========================
+.env
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
